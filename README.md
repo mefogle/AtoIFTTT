@@ -4,6 +4,7 @@ AtoIFTTT is short for "Alexa to If-this-then-that"; it's a simple [AWS Lambda] t
 
 ##Why IFTTT?
 This approach is convenient for two major reasons :
+
 1. It allows for rapid prototyping of Alexa Skills using only modifications to the Intent Model on the front end and IFTTT recipes on the backend.
 2. It opens up any IFTTT Channel with a Action on it as a potential "tool" for Alexa. 
 
