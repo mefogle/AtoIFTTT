@@ -1,0 +1,15 @@
+FindMyPhoneIntent Find my phone
+FindMyPhoneIntent Locate my phone
+FindMyPhoneIntent Call my phone
+FindMyPhoneIntent Ring my phone
+FindMyPhoneIntent Dial my phone
+
+TextIntent Send the message {Where are you|Message}
+TextIntent Send the message {Are you heading home|Message}
+TextIntent Send the message {Are you on your way home|Message}
+TextIntent Send the message {Ok|Message}
+TextIntent Send the message {Are you going to the store|Message}
+TextIntent Send the message {Here's a short message|Message}
+TextIntent Send the message {No|Message}
+TextIntent Send the message {Yes|Message}
+TextIntent Send the message {Did you get that email|Message}

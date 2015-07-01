@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+    "intent": "FindMyPhoneIntent",
+      "slots": [ ]
+    },
+    {
+     "intent": "TextIntent",
+     "slots": [
+        {
+          "name": "Message",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}
