@@ -2,13 +2,13 @@
 
 AtoIFTTT is short for "Alexa to If-this-then-that"; it's a simple [AWS Lambda] that packages up an [Alexa Skills Kit] Intent along with up to three "slot" values and sends them via a Web Request as an input to a "recipe" using the IFTTT [Maker Channel].
 
-##Why IFTTT?
+## Why IFTTT?
 This approach is convenient for two major reasons :
 
 1. It allows for rapid prototyping of Alexa Skills using only modifications to the Intent Model on the front end and IFTTT recipes on the backend.
 2. It opens up any IFTTT Channel with a Action on it as a potential "tool" for Alexa. 
 
-##Getting Started with AtoIFTTT
+## Getting Started with AtoIFTTT
 (Note: If you haven't created an Alexa Skills Kit Lambda before, it's best to read "[Developing an Alexa Skill as a Lambda Function]" first to familiarize yourself with the process. You should also be familiar with the basic workings of [IFTTT])
 
 1. If you aren't already a member, [join] IFTTT.
@@ -21,7 +21,7 @@ This approach is convenient for two major reasons :
 
 That's it!  You're now ready to use IFTTT with Alexa! However, you'll probably benefit from a couple of examples of how to use IFTTT to prototype new Alexa Skills... if so, read on.
 
-##Examples
+## Examples
 Two examples are included that make use of the schema in IntentSchema.json and SampleUtterances.txt - a "Find My Phone" command and a "Send a Text" command.  In order to use these, though, you'll need to do the following :
 
 1. Enable the [Phone Call Channel] on your IFTTT account.  This will set up IFTTT to call your phone as part of the "Find My Phone" command.
