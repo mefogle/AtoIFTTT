@@ -33,7 +33,7 @@ Two examples are included that make use of the schema in IntentSchema.json and S
 
 Now you're good to go - say "Alexa" (or whatever your Echo trigger phrase is) "Launch Maker" (or whichever name you assigned to the Skill), and Echo will prompt you to say a command.  If you say "Find my phone", you should hear a confirmation prompt (this comes from IFTTT), followed by your phone ringing.  Similarly, if you say "Send the message Where are you"), this should be sent to your phone as a text.
 
-That's about it... play around with the Utterances, add your own intents... or just use the Lambda code as an example of how to send web requests using Alexa. Contact me via https://markfogle.com with any questions or comments.
+That's about it... play around with the Utterances, add your own intents... or just use the Lambda code as an example of how to send web requests using Alexa. Contact me via https://about.me/markfogle with any questions or comments.
 
 [join]:https://ifttt.com/join
 [AWS Lambda]:http://aws.amazon.com/lambda
